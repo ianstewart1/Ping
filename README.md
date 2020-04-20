@@ -5,6 +5,6 @@ Usage: go run goping [Arguments] IP/Hostname
 Usage: goping [Arguments] IP/Hostname 
 
 #### Flags
--n : Number of echo requests to send. (default is infinite)\n
+-n : Number of echo requests to send. (default is infinite)\
 -w : Timeout in milliseconds to wait for each reply. (default is 5000ms)
 
